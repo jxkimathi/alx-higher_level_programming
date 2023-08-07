@@ -9,22 +9,22 @@
 
 int check_cycle(listint_t *list)
 {
-    listint_t *head, *tail;
+	listint_t *head, *tail;
 
-    if(!list || !list->next)
-    return (0);
+	if (!list || !list->next)
+		return (0);
 
-    head = list;
-    tail = list->next;
+	head = list;
+	tail = list->next;
 
-    while(tail && tail->next)
-    {
-        if (head == tail)
-        {
-            return (1);
-        }
-        head = head->next;
-        tail = tail->next->next;
-    }
-    return (0);
+	while (tail && tail->next)
+	{
+		if (head == tail)
+			return (1);
+
+		head = head->next;
+		tail = tail->next->next;
+	}
+
+	return (0);
 }
