@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 """Prints the last digit of a number"""
 
 

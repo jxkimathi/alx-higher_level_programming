@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 """Prints string, removing the character at n"""
 
 

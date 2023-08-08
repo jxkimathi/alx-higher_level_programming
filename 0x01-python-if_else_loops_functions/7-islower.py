@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 """Prints the given string in lowercase"""
 
 

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 """Prints two number combinations between 0 and 100"""
 for i in range(0, 10):
     for j in range(i + 1, 10):

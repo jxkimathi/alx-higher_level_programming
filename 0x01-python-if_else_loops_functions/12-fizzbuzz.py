@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 """Prints fizz if num % 3 == 0, buzz if num % 5 == 0
    and fizzbuzz if num % 3 and num % 5 == 0"""
 

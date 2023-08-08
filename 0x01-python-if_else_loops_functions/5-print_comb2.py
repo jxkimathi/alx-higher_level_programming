@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 """Prints the numbers from 0 to 99"""
 for index in range(0, 100):
     if index == 99:
