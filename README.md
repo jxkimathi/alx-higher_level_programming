@@ -6,6 +6,7 @@ For starters we are now working with Python, a high level language which is deri
 # Navigation 👨🏾‍✈️
 The projects contained in this repository are:
 * [0x00-python-hello_world](./0x00-python-hello_world/) - An Introduction into Python
+* [0x01-python-if_else_loops_functins](./0x01-python-if_else_loops_functions/) - A look into if/else loops and functions.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
