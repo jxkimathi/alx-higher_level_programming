@@ -8,6 +8,7 @@ The projects contained in this repository are:
 * [0x00-python-hello_world](./0x00-python-hello_world/) - An Introduction into Python
 * [0x01-python-if_else_loops_functins](./0x01-python-if_else_loops_functions/) - A look into if/else loops and functions.
 * [0x02-python-import_modules](./0x02-python-import_modules/) - How to use import and create modules.
+* [0x03-python-data_structure](./0x03-python-data_structures/) - Introduction to data structures; Tuples and Lists.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
