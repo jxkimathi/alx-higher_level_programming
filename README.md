@@ -9,6 +9,7 @@ The projects contained in this repository are:
 * [0x01-python-if_else_loops_functins](./0x01-python-if_else_loops_functions/) - A look into if/else loops and functions.
 * [0x02-python-import_modules](./0x02-python-import_modules/) - How to use import and create modules.
 * [0x03-python-data_structure](./0x03-python-data_structures/) - Introduction to data structures; Tuples and Lists.
+* [0x04-python-more_data_structures](./0x04-python-more_data_structures/) - A look into more data structures; Sets and Dictionaries.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
