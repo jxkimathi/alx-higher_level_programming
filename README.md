@@ -11,6 +11,7 @@ The projects contained in this repository are:
 * [0x03-python-data_structure](./0x03-python-data_structures/) - Introduction to data structures; Tuples and Lists.
 * [0x04-python-more_data_structures](./0x04-python-more_data_structures/) - A look into more data structures; Sets and Dictionaries.
 * [0x05-python-exceptions](./0x05-python-exceptions/) - A short project on Exception Handling in Python.
+* [0x06-python-classes](./0x06-python-classes/) - A look into classes and objects in Python.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
