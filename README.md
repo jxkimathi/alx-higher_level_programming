@@ -12,7 +12,8 @@ The projects contained in this repository are:
 * [0x04-python-more_data_structures](./0x04-python-more_data_structures/) - A look into more data structures; Sets and Dictionaries.
 * [0x05-python-exceptions](./0x05-python-exceptions/) - A short project on Exception Handling in Python.
 * [0x06-python-classes](./0x06-python-classes/) - A look into classes and objects in Python.
-* [0x07-python-test_driven_development](./0x07-python-test_driven_development/) - A look into Docstrings and interactive tests.
+* [0x07-python-test_driven_development](./0x07-python-test_driven_development/) - A look into Docstrings and Interactive tests.
+* [0x08-python-more_classes](./0x08-python-more_classes/) - A deeper look into Classes and objects.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
