@@ -14,6 +14,7 @@ The projects contained in this repository are:
 * [0x06-python-classes](./0x06-python-classes/) - A look into classes and objects in Python.
 * [0x07-python-test_driven_development](./0x07-python-test_driven_development/) - A look into Docstrings and Interactive tests.
 * [0x08-python-more_classes](./0x08-python-more_classes/) - A deeper look into Classes and objects.
+* [0x09-python-everything_is_object](./0x09-python-everything_is_object/) - 
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
