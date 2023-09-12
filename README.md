@@ -16,6 +16,7 @@ The projects contained in this repository are:
 * [0x08-python-more_classes](./0x08-python-more_classes/) - A deeper look into Classes and objects.
 * [0x09-python-everything_is_object](./0x09-python-everything_is_object/) - A look into knowledge in Objects in Python.
 * [0x0A-python-inheritance](./0x0A-python-inheritance/) - Inheritance in Python and further learning on classes.
+* [0x0B-python-input_output](./0x0B-python-input_output/) - Working with file input and output and JSON encoder and decoder.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
