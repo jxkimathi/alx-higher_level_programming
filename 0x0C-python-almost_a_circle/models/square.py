@@ -64,6 +64,5 @@ class Square(Rectangle):
 
     def __str__(self):
         """Overrides the __str__ method to return a stdout"""
-        string = (f"[Square] ({self.id}) ")
-        string += (f"{self.x}/{self.y} - {self.width}")
+        string = ("[Square] ({id}) {x}/{y} - {width}")
         return string
