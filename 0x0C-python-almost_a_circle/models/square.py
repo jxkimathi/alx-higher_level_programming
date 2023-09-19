@@ -28,7 +28,7 @@ class Square(Rectangle):
             for arg in args:
                 if a == 0:
                     if arg is None:
-                        self.__init__(self)
+                        self.__init__(self.size, self.x, self.y)
                     else:
                         self.id = arg
                 elif a == 1:
@@ -43,7 +43,7 @@ class Square(Rectangle):
             for key, value in kwargs.items():
                 if key == "id":
                     if value is None:
-                        self.__init__(self)
+                        self.__init__(self.size, self.x, self.y)
                     else:
                         self.id = value
                 elif key == "size":
@@ -64,5 +64,5 @@ class Square(Rectangle):
 
     def __str__(self):
         """Overrides the __str__ method to return a stdout"""
-        string = ("[Square] ({id}) {x}/{y} - {width}")
+        string = (f"[Square] ({self.id}) {self.x}/{self.y} - {self.width}")
         return string
