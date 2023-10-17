@@ -18,6 +18,7 @@ The projects contained in this repository are:
 * [0x0A-python-inheritance](./0x0A-python-inheritance/) - Inheritance in Python and further learning on classes.
 * [0x0B-python-input_output](./0x0B-python-input_output/) - Working with file input and output and JSON encoder and decoder.
 * [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle/) - A review of everything learned so far in Python.
+* [0x0D-SQL_introduction](./0x0D-SQL_introduction/) - Introduction to MySQL.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
