@@ -3,6 +3,6 @@ if (process.argv[2] <= 3) {
   console.log('0');
 } else {
   const arr = process.argv.slice(2).map(Number);
-  const sec = arr.sort(function (a, b) {return (b - a) }[1]);
+  const sec = arr.sort(function (a, b) { return b - a; })[1];
   console.log(sec);
 }
