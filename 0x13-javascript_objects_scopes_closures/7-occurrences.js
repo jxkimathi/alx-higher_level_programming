@@ -5,6 +5,6 @@ exports.nbOccurences = function (list, searchElement) {
     if (searchElement === list[i]) {
       nbOccurences++;
     }
-    return (nbOccurences);
-  };
+  }
+  return (nbOccurences);
 };
