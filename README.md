@@ -2,6 +2,7 @@
 Hello There! 🧡
 This is an Introduction to Higher Level Programming in the ALX Software Engineering course.
 For starters we are now working with Python, a high level language which is derived from C.
+Next up we introduce JavaScript which has similarities to C and mostly helps in Web Development.
 
 # Navigation 👨🏾‍✈️
 The projects contained in this repository are:
@@ -19,7 +20,9 @@ The projects contained in this repository are:
 * [0x0B-python-input_output](./0x0B-python-input_output/) - Working with file input and output and JSON encoder and decoder.
 * [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle/) - A review of everything learned so far in Python.
 * [0x0D-SQL_introduction](./0x0D-SQL_introduction/) - Introduction to MySQL.
+* [0x0E-SQL_more_queries](./0x0E-SQL_more_queries/) - Further look into MySQL.
 * [0x12-javascript-warm_up](./0x12-javascript-warm_up/) - An introduction to JavaScript especially in scripting and Web front-end.
+* [0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures/) - Objects, scopes and closures in Javascript.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
