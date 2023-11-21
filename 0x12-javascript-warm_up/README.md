@@ -14,3 +14,7 @@
 * [11-second_biggest.js](./11-second_biggest.js): Write a script that searches the second biggest integer in the list of arguments.
 * [12-object.js](./12-object.js): Update this script to replace the value 12 with 89.
 * [13-add.js](./13-add.js): Write a function that returns the addition of 2 integers.
+* [100-let_me_const.js](./100-let_me_const.js): Write a file that modifies the value of myVar to 333.
+* [101-call_me_moby.js](./101-call_me_moby.js): Write a function that executes x times a function.
+* [102-add_me_maybe.js](./102-add_me_maybe.js): Write a function that increments and calls a function.
+* [103-object_fct.js](./103-object_fct.js): Update this script by adding a new function incr that increments the integer value.
