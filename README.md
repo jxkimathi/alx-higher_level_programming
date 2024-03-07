@@ -21,6 +21,7 @@ The projects contained in this repository are:
 * [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle/) - A review of everything learned so far in Python.
 * [0x0D-SQL_introduction](./0x0D-SQL_introduction/) - Introduction to MySQL.
 * [0x0E-SQL_more_queries](./0x0E-SQL_more_queries/) - Further look into MySQL.
+* [0x0F-python-object_relational_mapping](./0x0F-python-object_relational_mapping/) - Relations between MySQL Databases and Python Scripts.
 * [0x10-python-network_0](./0x10-python-network_0/) - A look into HTTP and URLs.
 * [0x11-python-network_1](./0x11-python-network_1/) - Fetching URLs usin the urlib package.
 * [0x12-javascript-warm_up](./0x12-javascript-warm_up/) - An introduction to JavaScript especially in scripting and Web front-end.
