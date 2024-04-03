@@ -26,6 +26,7 @@ The projects contained in this repository are:
 * [0x11-python-network_1](./0x11-python-network_1/) - Fetching URLs usin the urlib package.
 * [0x12-javascript-warm_up](./0x12-javascript-warm_up/) - An introduction to JavaScript especially in scripting and Web front-end.
 * [0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures/) - Objects, scopes and closures in Javascript.
+* [0x14-javascript-web_scraping](./0x14-javascript-web_scraping/) - Manipulation of JSON data in web scraping.
 
 # Author ✍🏾
 * Jude Kimathi <[jxkimathi](https://github.com/jxkimathi)> 🤓
